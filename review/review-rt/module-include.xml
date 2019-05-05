@@ -1,0 +1,9 @@
+<!-- Module Include File -->
+<!-- Types -->
+<types>
+  <!-- Type Example:<type name="MyClass" class="com.acme.BMyClass"/> -->
+  <!--com.acme.review-->
+  <type class="com.acme.review.BRectangle" name="Rectangle"/>
+  <type class="com.acme.review.BReviewService" name="ReviewService"/>
+  <type class="com.acme.review.BReviewWorker" name="ReviewWorker"/>
+</types>

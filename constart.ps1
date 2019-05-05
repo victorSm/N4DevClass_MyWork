@@ -1,0 +1,1 @@
+﻿Start-Process console.exe
